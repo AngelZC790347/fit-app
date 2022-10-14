@@ -1,0 +1,1 @@
+SQLITE_ROOT = "/Users/angelcano/Documents/Sublime/Aplicaciones_Python/back-up/data.db"
